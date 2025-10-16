@@ -10,9 +10,6 @@
     <li>👩‍💻Currently, I am learning ML and AI mdoels!</li>
   </ul>
 
-[![trophy](https://github-profile-trophy.vercel.app/Anaisha-Jainryo-ma&theme=nord&column=-1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <h3>Your daily dose of bad jokes 😅</h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
