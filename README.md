@@ -1,8 +1,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Anaisha%20Jain&fontColor=ADD8E6&textBg=false&animation=scaleIn)
-
-
+<h1>About Me 🤔</h1>
+<ul>
+    <li>:wrench:Pursuing a Bachelor in Applied Science in Nanotechnology Engineering at University of Waterloo</li>
+    <li>🔬Interested in knowing more about the world of Quantum Mechanics and Technology</li>
+    <li>🐍I primarily code in Python, but I dabble in Java sometimes as well!</li>
+    <li>🤓I am always open to learning new things! :) </li>
+  </ul>
   
+<h3>Your daily dose of bad jokes 😅</h3>
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
