@@ -9,12 +9,15 @@
 <h1>About Me 🤔</h1>
 <ul>
   <li>:wrench:Pursuing a Bachelor in Applied Science in Nanotechnology Engineering at University of Waterloo</li>
-  <li>🔬Interested in knowing more about the world of Nanobiology and Biomed engineering!</li>
-  <li>🐍I primarily code in Python, but I dabble in Java sometimes as well!</li>
-  <li>🤓I am always open to learning new things! :) </li>
-  <li>👩‍💻Currently, I am learning Bioinformatics!</li>
+  <li>🔬 Interested in knowing more about the world of Nanobiology and Biomed engineering!</li>
+  <li>🐍 I primarily code in Python, but I dabble in Java sometimes as well!</li>
+  <li>🤓 I am always open to learning new things! :) </li>
+  <li>👩‍💻 Currently, I am learning Bioinformatics!</li>
+  <li>💻 Check out my <a href="https://anaisha-jain.github.io/">Portfolio</a> :D</li>
+  <li>🤝 Let's connect on <a href="https://www.linkedin.com/in/anaisha-jain-b02778325/">Linkedin</a>!</li>
   </ul>
 
+<br>
 <p align="left">
   <!-- GitFut Card -->
   <a href="https://gitfut.com/Anaisha-Jain">
@@ -27,10 +30,10 @@
   <!-- Coding Cat GIF -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZGJpZ2JqZGJpZ2JqZGJpZ2JqZGJpZ2JqZGJpZ2JqZGJpZ2JpJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="300">
 </p>
+<br>
 
 
 <h2>Languages, Frameworks, Platforms and Libraries 🖥 : </h2>
-<br>
 <p align='center'>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;&nbsp;
@@ -49,29 +52,35 @@
 <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;
 </p>
-<br>
 
 <h2> IDEs/Editors 👨‍🔧 : </h2>
-<br>
 <p align="center">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">&nbsp;&nbsp;
 </p>
-<br>
 
 <h2> Version Control 🔧 : </h2>
-<br>
 <p align='center'>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;
 </p>
+
+<h2> 3D Modelling and Hardware</h2>
+<p align='center'>
+  <img src="https://img.shields.io/badge/solidworks-%23005A9C.svg?style=for-the-badge&logo=solidworks&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/autocad-%23ED1C24.svg?style=for-the-badge&logo=autocad&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/servo-control-%237A869A.svg?style=for-the-badge&logo=microchip&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/pcb-prototyping-%234B4B4B.svg?style=for-the-badge&logo=espressif&logoColor=white">
+</p>
 <br>
 
+## Just a snake eating my contributions 🐍
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
