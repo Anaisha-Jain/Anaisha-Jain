@@ -85,7 +85,7 @@
 <br>
 
 
-![Snake animation](https://github.com/Anaisha-Jain/Anaisha-Jain/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anaisha-Jain/Anaisha-Jain/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&fontColor=ADD8E6&textBg=false&animation=scaleIn&section=footer&reversal=true) 
 
