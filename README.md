@@ -118,6 +118,8 @@
  </h2>
 </div> 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&fontColor=ADD8E6&textBg=false&animation=scaleIn&section=footer&reversal=true)  ---> 
