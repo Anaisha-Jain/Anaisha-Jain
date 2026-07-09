@@ -105,9 +105,13 @@
   />
 </picture>
 
+
+<br>
+<br>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/ff6be0e6-5aa4-478f-96d5-dd97bc5c0ce3.gif" width="80%" alt="pixel-art-readme-gifs">
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&fontColor=ADD8E6&textBg=false&animation=scaleIn&section=footer&reversal=true) 
 
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&fontColor=ADD8E6&textBg=false&animation=scaleIn&section=footer&reversal=true)  ---> 
