@@ -113,7 +113,7 @@
 </p>
 
 <div align="center"> 
- <h2 style="border-bottom: none;"> 
+ <h2>
    Hope you like my page!
  </h2>
 </div> 
