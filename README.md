@@ -96,7 +96,7 @@
 </div>
 <br>
 
-### 📈 Contribution Graph
+<h2>📈 Contribution Graph</h2>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anaisha-Jain&bg_color=00000000&color=dfcff3&line=dfcff3&point=996fd6&area=true&hide_border=true" alt="activity graph" />
 </p>
