@@ -18,11 +18,6 @@
   </ul>
 
 <br>
-<p align="left">
-  <!-- GitFut Card -->
-  <a href="https://gitfut.com/Anaisha-Jain">
-    <img src="https://gitfut.com/Anaisha-Jain.png" alt="My GitFut card" width="200">
-  </a>
   &nbsp;&nbsp;
   <!-- Quote Card -->
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true" width="300">
