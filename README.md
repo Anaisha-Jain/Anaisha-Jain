@@ -18,7 +18,7 @@
   </ul>
 
 <br>
-  &nbsp;&nbsp;
+  <p align = "left">
   <!-- Quote Card -->
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true" width="300">
  &nbsp;&nbsp;
